@@ -1,0 +1,8 @@
+---
+title: "Crypt Printing"
+type: "exercise"
+description: "Introduction to pringint from arrays in ruby"
+tags: "meta, array"
+visibility: "confirm"
+ignore:
+- "crypt_printing.md"

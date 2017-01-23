@@ -1,0 +1,8 @@
+---
+title: "Machine Communication"
+type: "exercise"
+description: "writing a times loop to talk with the computer"
+tags: "meta, looping"
+visibility: "confirm"
+ignore:
+- "machine_communication.md"

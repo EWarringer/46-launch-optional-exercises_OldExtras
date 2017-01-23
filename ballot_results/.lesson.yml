@@ -1,0 +1,9 @@
+---
+title: "Ballot Results"
+type: "challenge"
+description: "Use compound data structures to analyze voter data"
+tags: "arrays, compound data structures, two dimensional arrays"
+visibility: "subscribe"
+ignore:
+- "ballot_results.md"
+- "solution.md"

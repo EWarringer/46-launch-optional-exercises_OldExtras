@@ -1,0 +1,8 @@
+---
+title: "Vending Machine"
+type: "exercise"
+description: "build a vending machine that detects if items exist using nil"
+tags: "meta, nil"
+visibility: "confirm"
+ignore:
+- "vending_machine.md"

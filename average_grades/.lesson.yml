@@ -1,0 +1,8 @@
+---
+title: "Average Grades"
+type: "exercise"
+description: "Calculate student averages with methods and take advantage of return values"
+tags: "methods, parameters, arguments"
+visibility: "subscribe"
+ignore:
+- "average_grades.md"

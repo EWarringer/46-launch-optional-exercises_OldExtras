@@ -1,0 +1,7 @@
+---
+title: "Fibonacci Numbers"
+type: "exercise"
+visibility: "assign"
+description: "Calculate the nth Fibonacci number"
+ignore:
+- "fibonnaci.md"

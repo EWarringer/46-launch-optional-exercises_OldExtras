@@ -1,0 +1,8 @@
+---
+title: "Geometry Greeting"
+type: "exercise"
+description: "Greet students as they arrive with a method that requires an argument"
+tags: "methods, parameters, arguments"
+visibility: "subscribe"
+ignore:
+- "geometry_greeting.md"
